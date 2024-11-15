@@ -28,11 +28,12 @@ En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiare
 ## 🌟 Proyectos destacados
 
 - Bot1: bot para hacer pedidos en una página web con x cantidad de stock en los artículos pedidos cuando estén en stock.
+- Ejercicios de Jo-el.
 
 
 ## 📈 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JordiFernandezArlegui&show_icons=true&theme=radical)
 
 
 ¡Gracias por visitar mi perfil! 😊
