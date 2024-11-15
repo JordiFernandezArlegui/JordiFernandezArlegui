@@ -9,6 +9,11 @@ En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiare
 - **Frameworks:** Selenium.
 - **Herramientas:** Git.
 
+## 🎓 ¿Qué he estudiado?
+
+- Bachillerato científico en Centro López Vicuña.
+- Un año de ingeniería informática en La Salle Barcelona y otro en Tecnocampus Mataró.
+
 ## 🌱 Estoy aprendiendo
 
 - Actualmente cursando DAM en La Salle Gracia.
