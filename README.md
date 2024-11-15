@@ -27,7 +27,7 @@ En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiare
 
 ## 🌟 Proyectos destacados
 
-- Bot1: bot para hacer pedidos en una página web con x cantidad de stock en los artículos pedidos cuando estén en stock.
+- Bot Hefame: bot para hacer pedidos en una página web con x cantidad de stock en los artículos pedidos cuando estén en stock.
 - Ejercicios de Jo-el.
 
 
