@@ -6,7 +6,7 @@ En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiare
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes de programación:** Java, C++, Python, HTML y CSS.
-- **Frameworks:** Selenium.
+- **Herramientas de Automatización**:  Selenium.
 - **Herramientas:** Git.
 
 ## 🎓 ¿Qué he estudiado?
