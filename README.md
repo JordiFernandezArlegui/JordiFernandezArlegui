@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola, soy Jordi! 👋
 
-<!--
-**JordiFernandezArlegui/JordiFernandezArlegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiares o para mí (un friki).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes de programación:** Java, C++, Python, HTML y CSS.
+- **Frameworks:** Selenium.
+- **Herramientas:** Git.
+
+## 🌱 Estoy aprendiendo
+
+- Actualmente cursando DAM en La Salle Gracia.
+- Interesado en aprender sobre inteligencia artificial en un futuro próximo.
+
+## 📫 ¿Cómo contactarme?
+
+- **Correo electrónico:** jordiyoyo1@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jordi-fern%C3%A1ndez-arlegui-67b630253/
+- **Número de teléfono** 605365787
+
+## 🌟 Proyectos destacados
+
+- Bot1: bot para hacer pedidos en una página web con x cantidad de stock en los artículos pedidos cuando estén en stock.
+
+
+## 📈 Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+
+
+¡Gracias por visitar mi perfil! 😊
