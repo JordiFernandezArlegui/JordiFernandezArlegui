@@ -18,7 +18,7 @@ En mi tiempo libre me gusta elaborar proyectos personales para amigos, familiare
 
 - **Correo electrónico:** jordiyoyo1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jordi-fern%C3%A1ndez-arlegui-67b630253/
-- **Número de teléfono** 605365787
+- **Número de teléfono:** 605365787
 
 ## 🌟 Proyectos destacados
 
